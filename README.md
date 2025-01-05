@@ -7,5 +7,5 @@ Skills: A list of my technical skills in web development.
 Contact: A form to send messages directly to me.
 The website features a clean, responsive design with smooth scrolling functionality for seamless navigation.
 
-Special thanks to the CodeAlpha team for their incredible support and inspiration in making this project possible. 🙌
+Special thanks to the CodeAlpha team for their incredible support and inspiration in making this project possible. 
 
